@@ -21,7 +21,8 @@ This Power BI dashboard provides an in-depth analysis of key loan parameters, he
 - Helps banks in structuring optimal loan terms.
 
 ## 📷 Dashboard Snapshots
-(Add your dashboard screenshots here)
+## 📷 Dashboard Snapshots
+![Dashboard Overview](P1.png)
 
 ## 🚀 Technologies Used
 - **Power BI**: Data visualization and dashboard creation.
