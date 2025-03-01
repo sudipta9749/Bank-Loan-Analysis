@@ -20,6 +20,9 @@ This Power BI dashboard provides an in-depth analysis of key loan parameters, he
 - Tracks principal vs. interest payments over time.
 - Helps banks in structuring optimal loan terms.
 
+## 📷 Dashboard Snapshots
+(Add your dashboard screenshots here)
+
 ## 🚀 Technologies Used
 - **Power BI**: Data visualization and dashboard creation.
 - **SQL/Python (if applicable)**: Data extraction, transformation, and loading.
